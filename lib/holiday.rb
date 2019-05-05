@@ -76,8 +76,13 @@ def all_holidays_with_bbq(holiday_hash)
 
 end
 
-
-
+holiday_supplies.each do |key, value|
+  key[value].join
+end
+// turn everything to a string. loop through
+// turn string into array 
+// loop through to capitalize
+// capitalize all words using .split
 
 
 
