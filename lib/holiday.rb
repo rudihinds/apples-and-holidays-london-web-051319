@@ -79,7 +79,7 @@ end
 holiday_supplies.each do |key, value|
   puts "#{key.to_s.capitalize!}:"
   value.each do |holiday, supply|
-    puts "#{holiday}: #{supply},"
+    puts "#{holiday.to_s}: #{supply},"
 end
 end
 // turn everything to a string. loop through
