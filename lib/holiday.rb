@@ -78,6 +78,7 @@ end
 
 holiday_supplies.each do |key, value|
   puts "#{key.to_s.capitalize!}:"
+  value.each do |key, value|
 end
 // turn everything to a string. loop through
 // turn string into array 
