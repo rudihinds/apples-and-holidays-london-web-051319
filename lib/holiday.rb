@@ -99,7 +99,7 @@ end
 answer
 
 end
-end
+
 
 # holiday_supplies.each do |key, value|
 #   puts "#{key.to_s.capitalize!}:"
