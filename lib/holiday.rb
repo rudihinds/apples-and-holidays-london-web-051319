@@ -77,7 +77,7 @@ def all_holidays_with_bbq(holiday_hash)
 end
 
 holiday_supplies.each do |key, value|
-  key[value].join
+  puts "#{key}
 end
 // turn everything to a string. loop through
 // turn string into array 
